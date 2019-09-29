@@ -1,0 +1,27 @@
+
+  {
+  "WeatherForecasts": [
+    {
+      "dateFormatted": "9/30/2019",     
+      "temperatureC": 11,
+      "temperatureF": 12,
+       "summary": "Bracing"
+        
+    },
+    {
+      "dateFormatted": "9/30/2019",     
+      "temperatureC": 110,
+      "temperatureF": 120,
+       "summary": "Bracing"
+        
+    },
+      {
+      "dateFormatted": "9/30/2019",     
+      "temperatureC": 11,
+      "temperatureF": 14,
+       "summary": "Bracing"
+        
+    }
+
+  ]
+}
